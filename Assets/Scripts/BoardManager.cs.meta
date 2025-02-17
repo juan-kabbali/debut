@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7ad8727630811d34eae63770bc38b5e2
+timeCreated: 1495927893
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brickPrefab: {fileID: 1000013539040794, guid: 42181036e6639794b92040a4c4744639,
+      type: 2}
+  - playerOnePrefab: {fileID: 1000014291247692, guid: 6035ef1ed3d96db4cb7eaeae2c42becd,
+      type: 2}
+  - playerTwoPrefab: {fileID: 1000010861960166, guid: 60b77bfbfa07dfa4da834e77b0223316,
+      type: 2}
+  - portalPrefab: {fileID: 1000014277900808, guid: d9495ec612eed8647be587bc87594e26,
+      type: 2}
+  - bateryPrefab: {fileID: 1000013668680536, guid: a4647c21870a720489c7c89c9f9759da,
+      type: 2}
+  - boxPrefab: {fileID: 1000011417018098, guid: 2a92d78fcee341e43affe303b790b281,
+      type: 2}
+  - p1Text: {instanceID: 0}
+  - p2Text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
